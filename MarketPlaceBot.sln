@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlaceBot.BLL", "Marke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlaceBot.Core", "MarketPlaceBot.Core\MarketPlaceBot.Core.csproj", "{39758DB4-7BCB-4692-B0AF-D7516983524E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DliaTestov", "DliaTestov\DliaTestov.csproj", "{A0534B25-C95E-4645-9EC8-65E92E15EB9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{39758DB4-7BCB-4692-B0AF-D7516983524E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39758DB4-7BCB-4692-B0AF-D7516983524E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39758DB4-7BCB-4692-B0AF-D7516983524E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0534B25-C95E-4645-9EC8-65E92E15EB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0534B25-C95E-4645-9EC8-65E92E15EB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0534B25-C95E-4645-9EC8-65E92E15EB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0534B25-C95E-4645-9EC8-65E92E15EB9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

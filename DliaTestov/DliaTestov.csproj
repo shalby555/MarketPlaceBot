@@ -1,13 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MarketPlaceBot.BLL\MarketPlaceBot.BLL.csproj" />
+    <ProjectReference Include="..\MarketPlaceBot.Bot\MarketPlaceBot.Bot.csproj" />
     <ProjectReference Include="..\MarketPlaceBot.Core\MarketPlaceBot.Core.csproj" />
+    <ProjectReference Include="..\MarketPlaceBot.DAL\MarketPlaceBot.DAL.csproj" />
   </ItemGroup>
 
 </Project>

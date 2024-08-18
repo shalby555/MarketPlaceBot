@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MarketPlaceBot.Core\MarketPlaceBot.Core.csproj" />
+    <ProjectReference Include="..\MarketPlaceBot.DAL\MarketPlaceBot.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
