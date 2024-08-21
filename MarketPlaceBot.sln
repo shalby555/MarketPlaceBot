@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlaceBot.Bot", "MarketPlaceBot.Bot\MarketPlaceBot.Bot.csproj", "{183F0D7B-D8CA-41F8-8D7C-7BA34D219B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketPlaceBot.Bot", "MarketPlaceBot.Bot\MarketPlaceBot.Bot.csproj", "{183F0D7B-D8CA-41F8-8D7C-7BA34D219B59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlaceBot.DAL", "MarketPlaceBot.DAL\MarketPlaceBot.DAL.csproj", "{2173AA2F-B021-4A01-8B1B-8CC75CE6D4C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketPlaceBot.DAL", "MarketPlaceBot.DAL\MarketPlaceBot.DAL.csproj", "{2173AA2F-B021-4A01-8B1B-8CC75CE6D4C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlaceBot.BLL", "MarketPlaceBot.BLL\MarketPlaceBot.BLL.csproj", "{288BB92D-17CE-4E7D-A49D-70EDF9CEBB04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketPlaceBot.BLL", "MarketPlaceBot.BLL\MarketPlaceBot.BLL.csproj", "{288BB92D-17CE-4E7D-A49D-70EDF9CEBB04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlaceBot.Core", "MarketPlaceBot.Core\MarketPlaceBot.Core.csproj", "{39758DB4-7BCB-4692-B0AF-D7516983524E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketPlaceBot.Core", "MarketPlaceBot.Core\MarketPlaceBot.Core.csproj", "{39758DB4-7BCB-4692-B0AF-D7516983524E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DliaTestov", "DliaTestov\DliaTestov.csproj", "{A0534B25-C95E-4645-9EC8-65E92E15EB9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForTest", "DliaTestov\ForTest.csproj", "{A0534B25-C95E-4645-9EC8-65E92E15EB9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
