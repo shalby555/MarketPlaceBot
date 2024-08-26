@@ -1,0 +1,12 @@
+C:\cod\BotForShop\BotForShop.Core\bin\Debug\net8.0\BotForShop.Core.deps.json
+C:\cod\BotForShop\BotForShop.Core\bin\Debug\net8.0\BotForShop.Core.dll
+C:\cod\BotForShop\BotForShop.Core\bin\Debug\net8.0\BotForShop.Core.pdb
+C:\cod\BotForShop\BotForShop.Core\obj\Debug\net8.0\BotForShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\cod\BotForShop\BotForShop.Core\obj\Debug\net8.0\BotForShop.Core.AssemblyInfoInputs.cache
+C:\cod\BotForShop\BotForShop.Core\obj\Debug\net8.0\BotForShop.Core.AssemblyInfo.cs
+C:\cod\BotForShop\BotForShop.Core\obj\Debug\net8.0\BotForShop.Core.csproj.CoreCompileInputs.cache
+C:\cod\BotForShop\BotForShop.Core\obj\Debug\net8.0\BotForShop.Core.sourcelink.json
+C:\cod\BotForShop\BotForShop.Core\obj\Debug\net8.0\BotForShop.Core.dll
+C:\cod\BotForShop\BotForShop.Core\obj\Debug\net8.0\refint\BotForShop.Core.dll
+C:\cod\BotForShop\BotForShop.Core\obj\Debug\net8.0\BotForShop.Core.pdb
+C:\cod\BotForShop\BotForShop.Core\obj\Debug\net8.0\ref\BotForShop.Core.dll

@@ -1,0 +1,16 @@
+C:\cod\BotForShop\BotForShop.DAL\bin\Debug\net8.0\BotForShop.DAL.deps.json
+C:\cod\BotForShop\BotForShop.DAL\bin\Debug\net8.0\BotForShop.DAL.dll
+C:\cod\BotForShop\BotForShop.DAL\bin\Debug\net8.0\BotForShop.DAL.pdb
+C:\cod\BotForShop\BotForShop.DAL\bin\Debug\net8.0\BotForShop.Core.dll
+C:\cod\BotForShop\BotForShop.DAL\bin\Debug\net8.0\BotForShop.Core.pdb
+C:\cod\BotForShop\BotForShop.DAL\obj\Debug\net8.0\BotForShop.DAL.csproj.AssemblyReference.cache
+C:\cod\BotForShop\BotForShop.DAL\obj\Debug\net8.0\BotForShop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\cod\BotForShop\BotForShop.DAL\obj\Debug\net8.0\BotForShop.DAL.AssemblyInfoInputs.cache
+C:\cod\BotForShop\BotForShop.DAL\obj\Debug\net8.0\BotForShop.DAL.AssemblyInfo.cs
+C:\cod\BotForShop\BotForShop.DAL\obj\Debug\net8.0\BotForShop.DAL.csproj.CoreCompileInputs.cache
+C:\cod\BotForShop\BotForShop.DAL\obj\Debug\net8.0\BotForShop.DAL.sourcelink.json
+C:\cod\BotForShop\BotForShop.DAL\obj\Debug\net8.0\BotForSh.B18F304B.Up2Date
+C:\cod\BotForShop\BotForShop.DAL\obj\Debug\net8.0\BotForShop.DAL.dll
+C:\cod\BotForShop\BotForShop.DAL\obj\Debug\net8.0\refint\BotForShop.DAL.dll
+C:\cod\BotForShop\BotForShop.DAL\obj\Debug\net8.0\BotForShop.DAL.pdb
+C:\cod\BotForShop\BotForShop.DAL\obj\Debug\net8.0\ref\BotForShop.DAL.dll
