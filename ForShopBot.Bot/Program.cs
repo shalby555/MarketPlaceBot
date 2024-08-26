@@ -19,7 +19,7 @@ namespace ForShopBot.Bot
         //public static UserService UserService { get; set; }
         static void Main(string[] args)
         {
-            ITelegramBotClient bot = new TelegramBotClient("Enter your token");
+            ITelegramBotClient bot = new TelegramBotClient("Enter your token here");
 
             var cts = new CancellationTokenSource();
             var cancellationToken = cts.Token;
