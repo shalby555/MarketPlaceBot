@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "ForShopBot.Bot\\Program.cs",
               "ToolTip": "C:\\cod\\ForShopBotGeneral\\ForShopBot.Bot\\Program.cs",
               "RelativeToolTip": "ForShopBot.Bot\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAABRAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T10:56:50.029Z",
               "EditorCaption": ""
@@ -51,34 +51,31 @@
               "RelativeToolTip": "ForShopBot.Core\\Options.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T10:56:18.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T10:56:18.606Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ForShopBot.Core",
+              "Title": "ForShopBot.Core.csproj",
               "DocumentMoniker": "C:\\cod\\ForShopBotGeneral\\ForShopBot.Core\\ForShopBot.Core.csproj",
               "RelativeDocumentMoniker": "ForShopBot.Core\\ForShopBot.Core.csproj",
               "ToolTip": "C:\\cod\\ForShopBotGeneral\\ForShopBot.Core\\ForShopBot.Core.csproj",
               "RelativeToolTip": "ForShopBot.Core\\ForShopBot.Core.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-26T10:56:11.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T10:56:11.79Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ForShopBot.Bot",
+              "Title": "ForShopBot.Bot.csproj",
               "DocumentMoniker": "C:\\cod\\ForShopBotGeneral\\ForShopBot.Bot\\ForShopBot.Bot.csproj",
               "RelativeDocumentMoniker": "ForShopBot.Bot\\ForShopBot.Bot.csproj",
               "ToolTip": "C:\\cod\\ForShopBotGeneral\\ForShopBot.Bot\\ForShopBot.Bot.csproj",
               "RelativeToolTip": "ForShopBot.Bot\\ForShopBot.Bot.csproj",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-26T10:56:02.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T10:56:02.479Z"
             }
           ]
         }
